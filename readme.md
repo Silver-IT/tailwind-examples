@@ -1,9 +1,5 @@
 # Andre with Tailwind
 
-A collection of web pages and web components built in Tailwind CSS v0.7.4.
-
-Website: [https://tailwindcss.andredemos.ca](https://tailwindcss.andredemos.ca)
-
 ## Installation
 
 I'm using Laravel for these examples. For me, it was the fastest way to get Tailwind CSS running.
