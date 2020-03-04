@@ -20,10 +20,3 @@ I'm using Laravel for these examples. For me, it was the fastest way to get Tail
 ## If you're not using Laravel
 
 Check out the [Tailwind CSS Docs](https://tailwindcss.com/) on how to get setup in your environment.
-
-Here are the relevant files:
-
-- [HTML Markup](https://github.com/drehimself/tailwind-examples/tree/master/resources/views) - These are purely HTML. They DO NOT have any PHP syntax in them.
-- [CSS](https://github.com/drehimself/tailwind-examples/tree/master/resources/assets/css) - The CSS that Tailwind CSS will compile.
-- [tailwind.js](https://github.com/drehimself/tailwind-examples/blob/master/tailwind.js) - The Tailwind config file.
-
