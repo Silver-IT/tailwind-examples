@@ -1,12 +1,8 @@
-For Tailwind CSS v1.0 examples, check out [my other repo](https://github.com/drehimself/tailwind-v1-examples).
-
-# Tailwind CSS Examples
+# Andre with Tailwind
 
 A collection of web pages and web components built in Tailwind CSS v0.7.4.
 
 Website: [https://tailwindcss.andredemos.ca](https://tailwindcss.andredemos.ca)
-
-Screencasts: [YouTube link](https://www.youtube.com/playlist?list=PLEhEHUEU3x5p8cxOJ27w20LffCknp935L)
 
 ## Installation
 
